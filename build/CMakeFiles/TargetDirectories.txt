@@ -1,3 +1,0 @@
-C:/Users/luigi/Desktop/Sfmlstuff/NewPongGame/build/CMakeFiles/MySFMLProject.dir
-C:/Users/luigi/Desktop/Sfmlstuff/NewPongGame/build/CMakeFiles/edit_cache.dir
-C:/Users/luigi/Desktop/Sfmlstuff/NewPongGame/build/CMakeFiles/rebuild_cache.dir

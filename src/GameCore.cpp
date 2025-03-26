@@ -49,7 +49,7 @@ void GameCore::mainFunc()
     sf::RenderWindow window(sf::VideoMode({util::window.width, util::window.height}), "PongGame");
     GameCore::menuManager(window);
 
-    int gameTimerCount{5};
+    int gameTimerCount{300};
     int accountant{0};
     int playerScore{0}, enemyScore{0};
     double deltaTime{0.0f};
